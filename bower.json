@@ -1,0 +1,14 @@
+{
+  "name": "test1",
+  "description": "test1",
+  "main": "main.js",
+  "authors": [
+    "Your Name <you@example.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/maxpestov12/test1",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.1.3"
+  }
+}
